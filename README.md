@@ -3,7 +3,7 @@
 Blank by now 
 
 
-## Favorite technologies 
+## Favorite technologies ❤️
 <img align="left" alt="node.js" 
 src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 
@@ -14,6 +14,19 @@ src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img align="left" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+
+<br/>
+
+## Fun projects 
+
+#### codingcheats.io
+<img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+
+<img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+
+<br/>
+
+<hr/>
 
 <!--
 **LouisPetrik/LouisPetrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
