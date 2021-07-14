@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there!
 
-Blank by now 
+
 
 
 ## Favorite technologies ❤️
@@ -19,7 +19,8 @@ src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo
 
 ## Fun projects 
 
-#### codingcheats.io
+<h3><a href="https://codingcheats.io/">codingcheats.io</a></h3>
+
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
