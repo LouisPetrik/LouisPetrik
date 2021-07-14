@@ -1,7 +1,8 @@
 ### Hey there!
+My name is Louis, and I am from Germany. 
 
-
-
+<br/>
+<br/>
 
 ## Favorite technologies ❤️
 <img align="left" alt="node.js" 
