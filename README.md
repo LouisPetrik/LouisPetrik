@@ -29,6 +29,7 @@ src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo
 <br/>
 
 ## Gists, I find useful 
+{% gist b1323bd07b455168dcb51b865e1407b4 %}
 
 <script src="https://gist.github.com/LouisPetrik/b1323bd07b455168dcb51b865e1407b4.js"></script>
 <!--
