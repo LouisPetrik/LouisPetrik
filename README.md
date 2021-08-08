@@ -28,8 +28,9 @@ src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo
 
 <br/>
 
-<hr/>
+## Gists, I find useful 
 
+<script src="https://gist.github.com/LouisPetrik/b1323bd07b455168dcb51b865e1407b4.js"></script>
 <!--
 **LouisPetrik/LouisPetrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
