@@ -1,8 +1,14 @@
-### Hey there!
-My name is Louis, and I am from Germany. 
+## Hey there!
 
-<br/>
-<br/>
+<details>
+<summary>
+  My name is Louis, and I am from Germany. 
+  I am currently studying computer sciences at university. 
+  <br/>
+  <b> ⬇️ Continue reading</b>
+</summary>
+  
+
 
 ## Favorite technologies ❤️
 <img align="left" alt="node.js" 
@@ -45,3 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+</details>
